@@ -30,7 +30,7 @@ ResearchGate: https://www.researchgate.net/publication/377412526_Secure_Targeted
 <br>
 
 **Note:**
-More details can be found in the paper. However, this proejct can also be implemented in Virtulization environment (e.g., Virtual Box, VMWare).
+More implementation details can be found in the paper. However, this proejct can also be implemented in Virtulization environment (e.g., Virtual Box, VMWare).
 <br>
 <br>
 Conctact: m.m.baqer@ieee.org
