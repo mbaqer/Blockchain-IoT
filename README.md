@@ -10,19 +10,18 @@ M.B. Mollah, M.A.K. Azad, Y. Zhang, "Secure Targeted Message Dissemination in II
 Arxiv: [Arxiv-Preprint](https://arxiv.org/abs/2401.06384). <br> 
 
 ResearchGate: [ResearchGate]([https://arxiv.org/abs/2401.06384](https://www.researchgate.net/publication/377412526_Secure_Targeted_Message_Dissemination_in_IoT_Using_Blockchain_Enabled_Edge_Computing
-) <br>
+) 
 
 **Citatation:**
-@article{mollah2024blockchain,
-  title={Secure Targeted Message Dissemination in {I}{I}o{T} Using Blockchain Enabled Edge Computing},
-  author={Mollah, Muhammad Baqer and Azad, Md Abul Kalam and Zhang, Yinghui},
-  journal={arXiv preprint arXiv:2401.06384},
-  year={2024},
-  volume={},
-  number={},
-  pages={1-12}
+@article{mollah2024blockchain, <br>
+  title={Secure Targeted Message Dissemination in {I}{I}o{T} Using Blockchain Enabled Edge Computing}, <br>
+  author={Mollah, Muhammad Baqer and Azad, Md Abul Kalam and Zhang, Yinghui}, <br>
+  journal={arXiv preprint arXiv:2401.06384}, <br>
+  year={2024}, <br>
+  volume={}, <br>
+  number={}, <br>
+  pages={1-12} <br>
 }
-
 <br>
 
 ### Implementation:
