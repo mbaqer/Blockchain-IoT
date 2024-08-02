@@ -4,9 +4,11 @@ A project on blockchain technology with edge computing for Internet of Things se
 ### Paper:
 The codes are implemented for the following paper: <br> 
 
->  M.B. Mollah, M.A.K. Azad, Y. Zhang, "Secure Targeted Message Dissemination in IoT Using Blockchain Enabled Edge Computing", arXiv preprint arXiv:2401.06384. <br> 
+>  M.B. Mollah, M.A.K. Azad, Y. Zhang, "Secure Targeted Message Dissemination in IoT Using Blockchain Enabled Edge Computing", IEEE Transactions on Consumer Electronics, pp. 1-12, 2024.<br>
 
-Paper Link: https://arxiv.org/abs/2401.06384 <br> 
+IEEE Xplore: https://ieeexplore.ieee.org/document/10620311 <br>
+
+arXiv Link: https://arxiv.org/abs/2401.06384 <br> 
 
 ResearchGate: https://www.researchgate.net/publication/377412526_Secure_Targeted_Message_Dissemination_in_IoT_Using_Blockchain_Enabled_Edge_Computing
 
@@ -16,7 +18,7 @@ ResearchGate: https://www.researchgate.net/publication/377412526_Secure_Targeted
 @article{mollah2024blockchain,
   title={Secure Targeted Message Dissemination in {I}{I}o{T} Using Blockchain Enabled Edge Computing},
   author={Mollah, Muhammad Baqer and Azad, Md Abul Kalam and Zhang, Yinghui},
-  journal={arXiv preprint arXiv:2401.06384},
+  journal={IEEE Transactions on Consumer Electronics},
   year={2024},
   volume={},
   number={},
