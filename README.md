@@ -4,11 +4,11 @@ A project on blockchain technology with edge computing for Internet of Things se
 ### Paper:
 The codes are implemented for the following paper: <br> 
 
->  M.B. Mollah, M.A.K. Azad, Y. Zhang, "Secure Targeted Message Dissemination in IoT Using Blockchain Enabled Edge Computing", IEEE Transactions on Consumer Electronics, pp. 1-12, 2024.<br>
+>  M.B. Mollah, M.A.K. Azad, Y. Zhang, "Secure Targeted Message Dissemination in IoT Using Blockchain Enabled Edge Computing", IEEE Transactions on Consumer Electronics, vol. 70, no. 3, pp. 5389-5400, Aug. 2024.<br>
 
 IEEE Xplore: https://ieeexplore.ieee.org/document/10620311 <br>
 
-arXiv Link: https://arxiv.org/abs/2401.06384 <br> 
+arXiv Link: https://arxiv.org/abs/2401.06384 <br>
 
 ResearchGate: https://www.researchgate.net/publication/377412526_Secure_Targeted_Message_Dissemination_in_IoT_Using_Blockchain_Enabled_Edge_Computing
 
@@ -20,9 +20,9 @@ ResearchGate: https://www.researchgate.net/publication/377412526_Secure_Targeted
   author={Mollah, Muhammad Baqer and Azad, Md Abul Kalam and Zhang, Yinghui},
   journal={IEEE Transactions on Consumer Electronics},
   year={2024},
-  volume={},
-  number={},
-  pages={1-12}
+  volume={70},
+  number={3},
+  pages={5389-5400}
 }
 ```
 
@@ -32,6 +32,7 @@ ResearchGate: https://www.researchgate.net/publication/377412526_Secure_Targeted
 <br>
 
 **Note:**
+Video: https://drive.google.com/file/d/1Up6oQjujIbyNPAYDSjx6sdzSWDBnWHeD/view?usp=sharing  <br>
 More implementation details can be found in the paper. However, this proejct can also be implemented in Virtulization environment (e.g., Virtual Box, VMWare).
 <br>
 <br>
